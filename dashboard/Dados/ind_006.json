@@ -1,0 +1,38 @@
+{
+    "name": "ind_006",
+    "topologia": [
+        [
+            "EA_SECO",
+            "LPC_SECO"
+        ],
+        [
+            "EA_SECO",
+            "TER"
+        ],
+        [
+            "EA_SECO",
+            "HID"
+        ],
+        [
+            "HID",
+            "TER"
+        ]
+        ,
+        [
+            "TER",
+            "LPC_SECO"
+        ]
+        ,
+        [
+            "PLD_SECO",
+            "LPC_SECO"
+        ]
+    ],
+    "n_cat": 3,
+    "norm_type": "cl",
+    "target_variable": "LPC_SECO",
+    "n_years": 4,
+    "data_source": "base 20240321.parquet",
+    "starting_year": 2017
+
+}

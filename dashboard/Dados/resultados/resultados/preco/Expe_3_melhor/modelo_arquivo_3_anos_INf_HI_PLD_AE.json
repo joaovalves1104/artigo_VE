@@ -1,0 +1,250 @@
+{
+  "ANO_0": {
+    "MES_1": {
+      "HID": 1,
+      "EA_SECO": 1,
+      "PLD_SECO": 2
+    },
+    "MES_2": {
+      "HID": 1,
+      "EA_SECO": 1,
+      "PLD_SECO": 2
+    },
+    "MES_3": {
+      "HID": 0,
+      "EA_SECO": 0,
+      "PLD_SECO": 2
+    },
+    "MES_4": {
+      "HID": 1,
+      "EA_SECO": 0,
+      "PLD_SECO": 2
+    },
+    "MES_5": {
+      "HID": 1,
+      "EA_SECO": 0,
+      "PLD_SECO": 2
+    },
+    "MES_6": {
+      "HID": 0,
+      "EA_SECO": 0,
+      "PLD_SECO": 1
+    },
+    "MES_7": {
+      "HID": 0,
+      "EA_SECO": 0,
+      "PLD_SECO": 2
+    },
+    "MES_8": {
+      "HID": 2,
+      "EA_SECO": 1,
+      "PLD_SECO": 1
+    },
+    "MES_9": {
+      "HID": 1,
+      "EA_SECO": 1,
+      "PLD_SECO": 1
+    },
+    "MES_10": {
+      "HID": 2,
+      "EA_SECO": 2,
+      "PLD_SECO": 0
+    },
+    "MES_11": {
+      "HID": 2,
+      "EA_SECO": 2,
+      "PLD_SECO": 0
+    },
+    "MES_12": {
+      "HID": 2,
+      "EA_SECO": 2,
+      "PLD_SECO": 0
+    }
+  },
+  "ANO_1": {
+    "MES_1": {
+      "HID": 2,
+      "EA_SECO": 2,
+      "PLD_SECO": 0
+    },
+    "MES_2": {
+      "HID": 1,
+      "EA_SECO": 0,
+      "PLD_SECO": 1
+    },
+    "MES_3": {
+      "HID": 1,
+      "EA_SECO": 1,
+      "PLD_SECO": 0
+    },
+    "MES_4": {
+      "HID": 0,
+      "EA_SECO": 0,
+      "PLD_SECO": 2
+    },
+    "MES_5": {
+      "HID": 1,
+      "EA_SECO": 1,
+      "PLD_SECO": 1
+    },
+    "MES_6": {
+      "HID": 0,
+      "EA_SECO": 1,
+      "PLD_SECO": 1
+    },
+    "MES_7": {
+      "HID": 0,
+      "EA_SECO": 1,
+      "PLD_SECO": 1
+    },
+    "MES_8": {
+      "HID": 2,
+      "EA_SECO": 1,
+      "PLD_SECO": 1
+    },
+    "MES_9": {
+      "HID": 1,
+      "EA_SECO": 1,
+      "PLD_SECO": 1
+    },
+    "MES_10": {
+      "HID": 0,
+      "EA_SECO": 2,
+      "PLD_SECO": 0
+    },
+    "MES_11": {
+      "HID": 1,
+      "EA_SECO": 2,
+      "PLD_SECO": 0
+    },
+    "MES_12": {
+      "HID": 1,
+      "EA_SECO": 1,
+      "PLD_SECO": 1
+    }
+  },
+  "ANO_2": {
+    "MES_1": {
+      "HID": 1,
+      "EA_SECO": 1,
+      "PLD_SECO": 1
+    },
+    "MES_2": {
+      "HID": 2,
+      "EA_SECO": 1,
+      "PLD_SECO": 1
+    },
+    "MES_3": {
+      "HID": 2,
+      "EA_SECO": 1,
+      "PLD_SECO": 1
+    },
+    "MES_4": {
+      "HID": 2,
+      "EA_SECO": 2,
+      "PLD_SECO": 0
+    },
+    "MES_5": {
+      "HID": 2,
+      "EA_SECO": 2,
+      "PLD_SECO": 0
+    },
+    "MES_6": {
+      "HID": 2,
+      "EA_SECO": 2,
+      "PLD_SECO": 0
+    },
+    "MES_7": {
+      "HID": 2,
+      "EA_SECO": 2,
+      "PLD_SECO": 0
+    },
+    "MES_8": {
+      "HID": 1,
+      "EA_SECO": 1,
+      "PLD_SECO": 0
+    },
+    "MES_9": {
+      "HID": 1,
+      "EA_SECO": 2,
+      "PLD_SECO": 2
+    },
+    "MES_10": {
+      "HID": 0,
+      "EA_SECO": 0,
+      "PLD_SECO": 2
+    },
+    "MES_11": {
+      "HID": 0,
+      "EA_SECO": 0,
+      "PLD_SECO": 2
+    },
+    "MES_12": {
+      "HID": 1,
+      "EA_SECO": 1,
+      "PLD_SECO": 2
+    }
+  },
+  "ANO_3": {
+    "MES_1": {
+      "HID": 0,
+      "EA_SECO": 1,
+      "PLD_SECO": 2
+    },
+    "MES_2": {
+      "HID": 0,
+      "EA_SECO": 0,
+      "PLD_SECO": 2
+    },
+    "MES_3": {
+      "HID": 0,
+      "EA_SECO": 0,
+      "PLD_SECO": 2
+    },
+    "MES_4": {
+      "HID": 0,
+      "EA_SECO": 0,
+      "PLD_SECO": 2
+    },
+    "MES_5": {
+      "HID": 0,
+      "EA_SECO": 0,
+      "PLD_SECO": 2
+    },
+    "MES_6": {
+      "HID": 0,
+      "EA_SECO": 0,
+      "PLD_SECO": 2
+    },
+    "MES_7": {
+      "HID": 0,
+      "EA_SECO": 0,
+      "PLD_SECO": 2
+    },
+    "MES_8": {
+      "HID": 0,
+      "EA_SECO": 0,
+      "PLD_SECO": 2
+    },
+    "MES_9": {
+      "HID": 1,
+      "EA_SECO": 1,
+      "PLD_SECO": 2
+    },
+    "MES_10": {
+      "HID": 1,
+      "EA_SECO": 1,
+      "PLD_SECO": 2
+    },
+    "MES_11": {
+      "HID": 1,
+      "EA_SECO": 1,
+      "PLD_SECO": 1
+    },
+    "MES_12": {
+      "HID": 0,
+      "EA_SECO": 0,
+      "PLD_SECO": 2
+    }
+  }
+}

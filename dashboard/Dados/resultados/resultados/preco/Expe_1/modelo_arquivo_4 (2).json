@@ -1,0 +1,518 @@
+{
+  "ANO_0": {
+    "MES_1": {
+      "CE_SECO": 7,
+      "GE_SECO": 8,
+      "DM_SECO": 6,
+      "CI_SECO": 6,
+      "EA_SECO": 6,
+      "PIB": 4
+    },
+    "MES_2": {
+      "CE_SECO": 7,
+      "GE_SECO": 6,
+      "DM_SECO": 7,
+      "CI_SECO": 6,
+      "EA_SECO": 6,
+      "PIB": 4
+    },
+    "MES_3": {
+      "CE_SECO": 6,
+      "GE_SECO": 4,
+      "DM_SECO": 6,
+      "CI_SECO": 5,
+      "EA_SECO": 6,
+      "PIB": 3
+    },
+    "MES_4": {
+      "CE_SECO": 6,
+      "GE_SECO": 4,
+      "DM_SECO": 6,
+      "CI_SECO": 5,
+      "EA_SECO": 7,
+      "PIB": 4
+    },
+    "MES_5": {
+      "CE_SECO": 6,
+      "GE_SECO": 6,
+      "DM_SECO": 6,
+      "CI_SECO": 5,
+      "EA_SECO": 8,
+      "PIB": 3
+    },
+    "MES_6": {
+      "CE_SECO": 7,
+      "GE_SECO": 5,
+      "DM_SECO": 8,
+      "CI_SECO": 4,
+      "EA_SECO": 8,
+      "PIB": 3
+    },
+    "MES_7": {
+      "CE_SECO": 9,
+      "GE_SECO": 5,
+      "DM_SECO": 11,
+      "CI_SECO": 4,
+      "EA_SECO": 7,
+      "PIB": 4
+    },
+    "MES_8": {
+      "CE_SECO": 9,
+      "GE_SECO": 7,
+      "DM_SECO": 10,
+      "CI_SECO": 4,
+      "EA_SECO": 6,
+      "PIB": 4
+    },
+    "MES_9": {
+      "CE_SECO": 6,
+      "GE_SECO": 4,
+      "DM_SECO": 7,
+      "CI_SECO": 4,
+      "EA_SECO": 6,
+      "PIB": 5
+    },
+    "MES_10": {
+      "CE_SECO": 6,
+      "GE_SECO": 4,
+      "DM_SECO": 6,
+      "CI_SECO": 4,
+      "EA_SECO": 7,
+      "PIB": 6
+    },
+    "MES_11": {
+      "CE_SECO": 8,
+      "GE_SECO": 5,
+      "DM_SECO": 8,
+      "CI_SECO": 4,
+      "EA_SECO": 7,
+      "PIB": 6
+    },
+    "MES_12": {
+      "CE_SECO": 7,
+      "GE_SECO": 3,
+      "DM_SECO": 7,
+      "CI_SECO": 4,
+      "EA_SECO": 8,
+      "PIB": 4
+    }
+  },
+  "ANO_1": {
+    "MES_1": {
+      "CE_SECO": 5,
+      "GE_SECO": 3,
+      "DM_SECO": 5,
+      "CI_SECO": 4,
+      "EA_SECO": 9,
+      "PIB": 3
+    },
+    "MES_2": {
+      "CE_SECO": 5,
+      "GE_SECO": 4,
+      "DM_SECO": 5,
+      "CI_SECO": 4,
+      "EA_SECO": 9,
+      "PIB": 5
+    },
+    "MES_3": {
+      "CE_SECO": 6,
+      "GE_SECO": 8,
+      "DM_SECO": 7,
+      "CI_SECO": 4,
+      "EA_SECO": 9,
+      "PIB": 5
+    },
+    "MES_4": {
+      "CE_SECO": 8,
+      "GE_SECO": 10,
+      "DM_SECO": 8,
+      "CI_SECO": 5,
+      "EA_SECO": 8,
+      "PIB": 4
+    },
+    "MES_5": {
+      "CE_SECO": 7,
+      "GE_SECO": 7,
+      "DM_SECO": 7,
+      "CI_SECO": 5,
+      "EA_SECO": 7,
+      "PIB": 7
+    },
+    "MES_6": {
+      "CE_SECO": 5,
+      "GE_SECO": 7,
+      "DM_SECO": 4,
+      "CI_SECO": 2,
+      "EA_SECO": 6,
+      "PIB": 6
+    },
+    "MES_7": {
+      "CE_SECO": 3,
+      "GE_SECO": 8,
+      "DM_SECO": 1,
+      "CI_SECO": 1,
+      "EA_SECO": 6,
+      "PIB": 5
+    },
+    "MES_8": {
+      "CE_SECO": 3,
+      "GE_SECO": 8,
+      "DM_SECO": 1,
+      "CI_SECO": 1,
+      "EA_SECO": 7,
+      "PIB": 6
+    },
+    "MES_9": {
+      "CE_SECO": 4,
+      "GE_SECO": 8,
+      "DM_SECO": 2,
+      "CI_SECO": 1,
+      "EA_SECO": 9,
+      "PIB": 7
+    },
+    "MES_10": {
+      "CE_SECO": 1,
+      "GE_SECO": 6,
+      "DM_SECO": 0,
+      "CI_SECO": 1,
+      "EA_SECO": 9,
+      "PIB": 7
+    },
+    "MES_11": {
+      "CE_SECO": 0,
+      "GE_SECO": 5,
+      "DM_SECO": 1,
+      "CI_SECO": 1,
+      "EA_SECO": 9,
+      "PIB": 7
+    },
+    "MES_12": {
+      "CE_SECO": 2,
+      "GE_SECO": 7,
+      "DM_SECO": 3,
+      "CI_SECO": 1,
+      "EA_SECO": 9,
+      "PIB": 6
+    }
+  },
+  "ANO_2": {
+    "MES_1": {
+      "CE_SECO": 5,
+      "GE_SECO": 6,
+      "DM_SECO": 5,
+      "CI_SECO": 1,
+      "EA_SECO": 8,
+      "PIB": 6
+    },
+    "MES_2": {
+      "CE_SECO": 6,
+      "GE_SECO": 5,
+      "DM_SECO": 8,
+      "CI_SECO": 1,
+      "EA_SECO": 8,
+      "PIB": 6
+    },
+    "MES_3": {
+      "CE_SECO": 7,
+      "GE_SECO": 4,
+      "DM_SECO": 9,
+      "CI_SECO": 1,
+      "EA_SECO": 8,
+      "PIB": 6
+    },
+    "MES_4": {
+      "CE_SECO": 7,
+      "GE_SECO": 4,
+      "DM_SECO": 8,
+      "CI_SECO": 0,
+      "EA_SECO": 7,
+      "PIB": 2
+    },
+    "MES_5": {
+      "CE_SECO": 7,
+      "GE_SECO": 7,
+      "DM_SECO": 8,
+      "CI_SECO": 0,
+      "EA_SECO": 7,
+      "PIB": 0
+    },
+    "MES_6": {
+      "CE_SECO": 8,
+      "GE_SECO": 6,
+      "DM_SECO": 9,
+      "CI_SECO": 2,
+      "EA_SECO": 7,
+      "PIB": 1
+    },
+    "MES_7": {
+      "CE_SECO": 8,
+      "GE_SECO": 3,
+      "DM_SECO": 9,
+      "CI_SECO": 3,
+      "EA_SECO": 7,
+      "PIB": 2
+    },
+    "MES_8": {
+      "CE_SECO": 8,
+      "GE_SECO": 2,
+      "DM_SECO": 7,
+      "CI_SECO": 3,
+      "EA_SECO": 6,
+      "PIB": 2
+    },
+    "MES_9": {
+      "CE_SECO": 9,
+      "GE_SECO": 3,
+      "DM_SECO": 9,
+      "CI_SECO": 3,
+      "EA_SECO": 5,
+      "PIB": 3
+    },
+    "MES_10": {
+      "CE_SECO": 13,
+      "GE_SECO": 6,
+      "DM_SECO": 13,
+      "CI_SECO": 3,
+      "EA_SECO": 4,
+      "PIB": 4
+    },
+    "MES_11": {
+      "CE_SECO": 14,
+      "GE_SECO": 8,
+      "DM_SECO": 14,
+      "CI_SECO": 3,
+      "EA_SECO": 3,
+      "PIB": 4
+    },
+    "MES_12": {
+      "CE_SECO": 13,
+      "GE_SECO": 9,
+      "DM_SECO": 14,
+      "CI_SECO": 3,
+      "EA_SECO": 2,
+      "PIB": 5
+    }
+  },
+  "ANO_3": {
+    "MES_1": {
+      "CE_SECO": 11,
+      "GE_SECO": 7,
+      "DM_SECO": 12,
+      "CI_SECO": 3,
+      "EA_SECO": 2,
+      "PIB": 6
+    },
+    "MES_2": {
+      "CE_SECO": 10,
+      "GE_SECO": 8,
+      "DM_SECO": 11,
+      "CI_SECO": 3,
+      "EA_SECO": 3,
+      "PIB": 7
+    },
+    "MES_3": {
+      "CE_SECO": 9,
+      "GE_SECO": 6,
+      "DM_SECO": 10,
+      "CI_SECO": 4,
+      "EA_SECO": 3,
+      "PIB": 10
+    },
+    "MES_4": {
+      "CE_SECO": 7,
+      "GE_SECO": 1,
+      "DM_SECO": 7,
+      "CI_SECO": 7,
+      "EA_SECO": 4,
+      "PIB": 13
+    },
+    "MES_5": {
+      "CE_SECO": 6,
+      "GE_SECO": 2,
+      "DM_SECO": 7,
+      "CI_SECO": 7,
+      "EA_SECO": 6,
+      "PIB": 14
+    },
+    "MES_6": {
+      "CE_SECO": 7,
+      "GE_SECO": 4,
+      "DM_SECO": 7,
+      "CI_SECO": 7,
+      "EA_SECO": 8,
+      "PIB": 13
+    },
+    "MES_7": {
+      "CE_SECO": 6,
+      "GE_SECO": 4,
+      "DM_SECO": 6,
+      "CI_SECO": 8,
+      "EA_SECO": 9,
+      "PIB": 12
+    },
+    "MES_8": {
+      "CE_SECO": 7,
+      "GE_SECO": 6,
+      "DM_SECO": 8,
+      "CI_SECO": 8,
+      "EA_SECO": 11,
+      "PIB": 11
+    },
+    "MES_9": {
+      "CE_SECO": 9,
+      "GE_SECO": 8,
+      "DM_SECO": 10,
+      "CI_SECO": 8,
+      "EA_SECO": 13,
+      "PIB": 11
+    },
+    "MES_10": {
+      "CE_SECO": 9,
+      "GE_SECO": 6,
+      "DM_SECO": 10,
+      "CI_SECO": 8,
+      "EA_SECO": 13,
+      "PIB": 10
+    },
+    "MES_11": {
+      "CE_SECO": 7,
+      "GE_SECO": 3,
+      "DM_SECO": 8,
+      "CI_SECO": 9,
+      "EA_SECO": 14,
+      "PIB": 10
+    },
+    "MES_12": {
+      "CE_SECO": 5,
+      "GE_SECO": 1,
+      "DM_SECO": 6,
+      "CI_SECO": 9,
+      "EA_SECO": 14,
+      "PIB": 10
+    }
+  },
+  "ANO_4": {
+    "MES_1": {
+      "CE_SECO": 7,
+      "GE_SECO": 3,
+      "DM_SECO": 8,
+      "CI_SECO": 10,
+      "EA_SECO": 14,
+      "PIB": 9
+    },
+    "MES_2": {
+      "CE_SECO": 6,
+      "GE_SECO": 3,
+      "DM_SECO": 7,
+      "CI_SECO": 10,
+      "EA_SECO": 14,
+      "PIB": 8
+    },
+    "MES_3": {
+      "CE_SECO": 4,
+      "GE_SECO": 3,
+      "DM_SECO": 5,
+      "CI_SECO": 8,
+      "EA_SECO": 14,
+      "PIB": 9
+    },
+    "MES_4": {
+      "CE_SECO": 5,
+      "GE_SECO": 7,
+      "DM_SECO": 6,
+      "CI_SECO": 7,
+      "EA_SECO": 14,
+      "PIB": 10
+    },
+    "MES_5": {
+      "CE_SECO": 6,
+      "GE_SECO": 7,
+      "DM_SECO": 6,
+      "CI_SECO": 8,
+      "EA_SECO": 13,
+      "PIB": 11
+    },
+    "MES_6": {
+      "CE_SECO": 4,
+      "GE_SECO": 6,
+      "DM_SECO": 5,
+      "CI_SECO": 9,
+      "EA_SECO": 13,
+      "PIB": 11
+    },
+    "MES_7": {
+      "CE_SECO": 5,
+      "GE_SECO": 6,
+      "DM_SECO": 5,
+      "CI_SECO": 10,
+      "EA_SECO": 13,
+      "PIB": 11
+    },
+    "MES_8": {
+      "CE_SECO": 5,
+      "GE_SECO": 5,
+      "DM_SECO": 7,
+      "CI_SECO": 10,
+      "EA_SECO": 12,
+      "PIB": 11
+    },
+    "MES_9": {
+      "CE_SECO": 5,
+      "GE_SECO": 5,
+      "DM_SECO": 6,
+      "CI_SECO": 11,
+      "EA_SECO": 11,
+      "PIB": 10
+    },
+    "MES_10": {
+      "CE_SECO": 4,
+      "GE_SECO": 9,
+      "DM_SECO": 5,
+      "CI_SECO": 11,
+      "EA_SECO": 11,
+      "PIB": 10
+    },
+    "MES_11": {
+      "CE_SECO": 6,
+      "GE_SECO": 11,
+      "DM_SECO": 7,
+      "CI_SECO": 12,
+      "EA_SECO": 11,
+      "PIB": 10
+    },
+    "MES_12": {
+      "CE_SECO": 8,
+      "GE_SECO": 12,
+      "DM_SECO": 7,
+      "CI_SECO": 13,
+      "EA_SECO": 11,
+      "PIB": 9
+    }
+  },
+  "ANO_5": {
+    "MES_1": {
+      "CE_SECO": 7,
+      "GE_SECO": 11,
+      "DM_SECO": 6,
+      "CI_SECO": 13,
+      "EA_SECO": 11,
+      "PIB": 9
+    },
+    "MES_2": {
+      "CE_SECO": 8,
+      "GE_SECO": 11,
+      "DM_SECO": 7,
+      "CI_SECO": 14,
+      "EA_SECO": 12,
+      "PIB": 8
+    },
+    "MES_3": {
+      "CE_SECO": 11,
+      "GE_SECO": 12,
+      "DM_SECO": 11,
+      "CI_SECO": 14,
+      "EA_SECO": 12,
+      "PIB": 9
+    }
+  }
+}

@@ -1,0 +1,88 @@
+{
+    "name": "ind_005",
+    "topologia": [
+        [
+            "PT-TOT",
+            "CFCT"
+        ],
+        [
+            "PNT-TOT",
+            "CFCT"
+        ],
+        [
+            "TEMP-MAX",
+            "CFCT"
+        ],
+        [
+            "I-PLUV",
+            "CFCT"
+        ],
+        [
+            "IMR-TOT",
+            "CFCT"
+        ],
+		[
+            "I-AEC",
+            "CFCT"
+        ],
+		[
+            "Q-BF",
+            "IMR-TOT"
+        ],
+		[
+            "MR-PS",
+            "IMR-TOT"
+        ],
+		[
+            "IPAGRO",
+            "I-AEC"
+        ],
+		[
+            "IV-CVA",
+            "I-AEC"
+        ],
+		[
+            "PFI-IG",
+            "I-AEC"
+        ],
+		[
+            "IMR-TOT",
+            "PNT-TOT"
+        ],
+		[
+            "PFI-IG",
+            "PNT-TOT"
+        ],
+		[
+            "NC-R",
+            "PNT-TOT"
+        ],
+		[
+            "NC-C",
+            "PNT-TOT"
+        ],
+		[
+            "PNT-TOT",
+            "PT-TOT"
+        ],
+		[
+            "NC-R",
+            "PT-TOT"
+        ],
+		[
+            "NC-C",
+            "PT-TOT"
+        ],
+		[
+            "NC-I",
+            "PT-TOT"
+        ]		
+    ],
+    "n_cat": 15,
+    "norm_type": "cl",
+    "target_variable": "LPC_SECO",
+    "n_years": 6,
+    "data_source": "base 20240321.parquet",
+    "starting_year": 2017
+
+}

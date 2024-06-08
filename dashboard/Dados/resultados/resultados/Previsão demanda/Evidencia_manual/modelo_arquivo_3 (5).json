@@ -1,0 +1,222 @@
+{
+  "ANO_0": {
+    "MES_1": {
+      "NC-R": 1,
+      "NC-I": 1,
+      "NC-C": 0,
+      "TEMP-MAX": 1,
+      "I-PLUV": 1,
+      "IPAGRO": 0,
+      "Q-BF": 2,
+      "MR-PS": 2,
+      "PFI-IG": 2,
+      "IV-CVA": 1
+    },
+    "MES_2": {
+      "NC-R": 1,
+      "NC-I": 1,
+      "NC-C": 0,
+      "TEMP-MAX": 0,
+      "I-PLUV": 2,
+      "IPAGRO": 0,
+      "Q-BF": 2,
+      "MR-PS": 2,
+      "PFI-IG": 2,
+      "IV-CVA": 1
+    },
+    "MES_3": {
+      "NC-R": 1,
+      "NC-I": 1,
+      "NC-C": 0,
+      "TEMP-MAX": 0,
+      "I-PLUV": 2,
+      "IPAGRO": 0,
+      "Q-BF": 1,
+      "MR-PS": 2,
+      "PFI-IG": 2,
+      "IV-CVA": 1
+    },
+    "MES_4": {
+      "NC-R": 0,
+      "NC-I": 1,
+      "NC-C": 0,
+      "TEMP-MAX": 1,
+      "I-PLUV": 1,
+      "IPAGRO": 0,
+      "Q-BF": 1,
+      "MR-PS": 2,
+      "PFI-IG": 2,
+      "IV-CVA": 1
+    },
+    "MES_5": {
+      "NC-R": 0,
+      "NC-I": 1,
+      "NC-C": 0,
+      "TEMP-MAX": 1,
+      "I-PLUV": 1,
+      "IPAGRO": 0,
+      "Q-BF": 1,
+      "MR-PS": 2,
+      "PFI-IG": 2,
+      "IV-CVA": 2
+    },
+    "MES_6": {
+      "NC-R": 0,
+      "NC-I": 2,
+      "NC-C": 0,
+      "TEMP-MAX": 0,
+      "I-PLUV": 2,
+      "IPAGRO": 0,
+      "Q-BF": 1,
+      "MR-PS": 2,
+      "PFI-IG": 2,
+      "IV-CVA": 2
+    },
+    "MES_7": {
+      "NC-R": 0,
+      "NC-I": 2,
+      "NC-C": 0,
+      "TEMP-MAX": 0,
+      "I-PLUV": 2,
+      "IPAGRO": 0,
+      "Q-BF": 0,
+      "MR-PS": 0,
+      "PFI-IG": 0,
+      "IV-CVA": 1
+    },
+    "MES_8": {
+      "NC-R": 1,
+      "NC-I": 2,
+      "NC-C": 0,
+      "TEMP-MAX": 1,
+      "I-PLUV": 0,
+      "IPAGRO": 0,
+      "Q-BF": 0,
+      "MR-PS": 0,
+      "PFI-IG": 0,
+      "IV-CVA": 1
+    },
+    "MES_9": {
+      "NC-R": 0,
+      "NC-I": 1,
+      "NC-C": 0,
+      "TEMP-MAX": 1,
+      "I-PLUV": 0,
+      "IPAGRO": 1,
+      "Q-BF": 0,
+      "MR-PS": 0,
+      "PFI-IG": 0,
+      "IV-CVA": 1
+    },
+    "MES_10": {
+      "NC-R": 0,
+      "NC-I": 1,
+      "NC-C": 0,
+      "TEMP-MAX": 0,
+      "I-PLUV": 2,
+      "IPAGRO": 1,
+      "Q-BF": 0,
+      "MR-PS": 0,
+      "PFI-IG": 0,
+      "IV-CVA": 1
+    },
+    "MES_11": {
+      "NC-R": 0,
+      "NC-I": 1,
+      "NC-C": 0,
+      "TEMP-MAX": 1,
+      "I-PLUV": 1,
+      "IPAGRO": 1,
+      "Q-BF": 0,
+      "MR-PS": 0,
+      "PFI-IG": 0,
+      "IV-CVA": 1
+    },
+    "MES_12": {
+      "NC-R": 0,
+      "NC-I": 2,
+      "NC-C": 0,
+      "TEMP-MAX": 1,
+      "I-PLUV": 1,
+      "IPAGRO": 1,
+      "Q-BF": 0,
+      "MR-PS": 0,
+      "PFI-IG": 0,
+      "IV-CVA": 1
+    }
+  },
+  "ANO_1": {
+    "MES_1": {
+      "NC-R": 0,
+      "NC-I": 2,
+      "NC-C": 0,
+      "TEMP-MAX": 1,
+      "I-PLUV": 2,
+      "IPAGRO": 1,
+      "Q-BF": 0,
+      "MR-PS": 0,
+      "PFI-IG": 1,
+      "IV-CVA": 1
+    },
+    "MES_2": {
+      "NC-R": 0,
+      "NC-I": 1,
+      "NC-C": 0,
+      "TEMP-MAX": 1,
+      "I-PLUV": 1,
+      "IPAGRO": 1,
+      "Q-BF": 0,
+      "MR-PS": 0,
+      "PFI-IG": 2,
+      "IV-CVA": 1
+    },
+    "MES_3": {
+      "NC-R": 0,
+      "NC-I": 2,
+      "NC-C": 0,
+      "TEMP-MAX": 1,
+      "I-PLUV": 1,
+      "IPAGRO": 0,
+      "Q-BF": 1,
+      "MR-PS": 0,
+      "PFI-IG": 1,
+      "IV-CVA": 1
+    },
+    "MES_4": {
+      "NC-R": 0,
+      "NC-I": 2,
+      "NC-C": 0,
+      "TEMP-MAX": 1,
+      "I-PLUV": 1,
+      "IPAGRO": 0,
+      "Q-BF": 1,
+      "MR-PS": 0,
+      "PFI-IG": 0,
+      "IV-CVA": 2
+    },
+    "MES_5": {
+      "NC-R": 0,
+      "NC-I": 2,
+      "NC-C": 0,
+      "TEMP-MAX": 1,
+      "I-PLUV": 1,
+      "IPAGRO": 0,
+      "Q-BF": 0,
+      "MR-PS": 0,
+      "PFI-IG": 0,
+      "IV-CVA": 2
+    },
+    "MES_6": {
+      "NC-R": 0,
+      "NC-I": 1,
+      "NC-C": 0,
+      "TEMP-MAX": 2,
+      "I-PLUV": 0,
+      "IPAGRO": 0,
+      "Q-BF": 0,
+      "MR-PS": 0,
+      "PFI-IG": 1,
+      "IV-CVA": 2
+    }
+  }
+}
